@@ -1,4 +1,15 @@
 name: KOTB
-version: '1.0'
+version: '${version}'
 main: me.clin.kOTB.KOTB
 api-version: '1.21'
+commands:
+  kotb:
+    description: Beheer het KOTB-toernooi.
+    usage: /kotb
+    permission: kotb.admin
+    aliases:
+      - tourney
+permissions:
+  kotb.admin:
+    description: Toegang tot alle KOTB-commando's.
+    default: op
