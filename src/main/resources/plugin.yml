@@ -1,0 +1,4 @@
+name: KOTB
+version: '1.0'
+main: me.clin.kOTB.KOTB
+api-version: '1.21'
