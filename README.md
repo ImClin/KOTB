@@ -85,4 +85,4 @@ Het resulterende .jar-bestand verschijnt in `build/libs/`. Gebruik `./gradlew.ba
 ## Bekende beperkingen
 - Er is (nog) geen ingebouwde opslag/herstel van spelerinventarissen buiten matches.
 
-Bijdragen of uitbreidingen zijn welkom; open gerust een issue of stuur een pull request.
+Issues en PRs welkom.
